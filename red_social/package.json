@@ -1,0 +1,14 @@
+{
+  "name": "red_social",
+  "version": "1.0.0",
+  "description": "es una red social",
+  "main": "server.js",
+  "keywords": [
+    "red_s"
+  ],
+  "author": "eldaniell01",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
