@@ -11,3 +11,10 @@ console.log({
     boton
 })
 console.log(boton.value);
+h2.innerHTML = "hola mundo2"
+console.log(h2.getAttribute('class'))
+h2.setAttribute('class', 'verde')
+h2. classList.add('rojo')
+h2.classList.remove('verde')
+
+document.createElement('img')
