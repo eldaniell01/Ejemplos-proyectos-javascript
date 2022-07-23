@@ -1,5 +1,5 @@
 function array2(arreglo){
-    arreglo.array.forEach(element => {
-        console.log(element)
-    });
+    for(let i = 0; i<arreglo.length; i++){
+        console.log(arreglo[i])
+    }
 }
